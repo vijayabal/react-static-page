@@ -1,2 +1,2 @@
 #ReactPage
-This is my programming platform
+This is simple react SPA page
